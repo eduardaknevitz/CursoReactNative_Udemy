@@ -1,0 +1,6 @@
+**/*.js
+node_modules
+builds
+android
+ios
+.expo
